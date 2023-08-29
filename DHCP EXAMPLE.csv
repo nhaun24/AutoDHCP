@@ -1,0 +1,24 @@
+VLAN ID,In Use,Purpose,Description,Location / Shelf,CGN Space,DOMAIN
+1101,Yes,Data,DHCP - Shelf 1 - OLT 1,TEST,100.64.10.0/23,domain.test
+1102,No,Data,DHCP - Shelf 1 - OLT 2,TEST,100.64.12.0/23,domain.test
+1103,No,Data,DHCP - Shelf 1 - OLT 3,TEST,100.64.14.0/23,domain.test
+1104,No,Data,DHCP - Shelf 1 - OLT 4,TEST,100.64.16.0/23,domain.test
+1105,No,Data,DHCP - Shelf 1 - OLT 5,TEST,100.64.18.0/23,domain.test
+1106,No,Data,DHCP - Shelf 1 - OLT 6,TEST,100.64.20.0/23,domain.test
+1107,No,Data,DHCP - Shelf 1 - OLT 7,TEST,100.64.22.0/23,domain.test
+1108,No,Data,DHCP - Shelf 1 - OLT 8,TEST,100.64.24.0/23,domain.test
+1109,No,Data,DHCP - Shelf 1 - OLT 9,TEST,100.64.26.0/23,domain.test
+1110,No,Data,DHCP - Shelf 1 - OLT 10,TEST,100.64.28.0/23,domain.test
+1112,No,Data Static,Static - Shelf 1,TEST,TBT,domain.test
+1113,No,Data,DHCP - Shelf 1 - OLT 13,TEST,100.64.30.0/23,domain.test
+1114,No,Data,DHCP - Shelf 1 - OLT 14,TEST,100.64.32.0/23,domain.test
+1115,No,Data,DHCP - Shelf 1 - OLT 15,TEST,100.64.34.0/23,domain.test
+1116,No,Data,DHCP - Shelf 1 - OLT 16,TEST,100.64.36.0/23,domain.test
+1117,No,Data,DHCP - Shelf 1 - OLT 17,TEST,100.64.38.0/23,domain.test
+1118,No,Data,DHCP - Shelf 1 - OLT 18,TEST,100.64.40.0/23,domain.test
+1119,No,Data,DHCP - Shelf 1 - OLT 19,TEST,100.64.42.0/23,domain.test
+1120,No,Data,DHCP - Shelf 1 - OLT 20,TEST,100.64.44.0/23,domain.test
+1121,No,Data,DHCP - Shelf 1 - OLT 21,TEST,100.64.46.0/23,domain.test
+1122,No,Data,DHCP - Shelf 1 - OLT 22,TEST,100.64.48.0/23,domain.test
+1180,Yes,Voice,DHCP - Shelf 1,TEST,10.1.0.0/22,domain.test
+1190,Yes,ONT MGMT,DHCP - Shelf 1,TEST,10.101.0.0/22,domain.test
