@@ -3,7 +3,8 @@ Python which writes DHCPD.CONF file from a CSV file
 
 Install and Use:
 Python3.10 (https://www.python.org/downloads/windows/) !!!!! Python3.10 Must add to path && Must disable path length limit  !!!!!
-Run main.pyw
+Run AutoDHCP.pyw (can make shortcut and add .ico file, but it does run without it)
+
 
 CSV file can have any information you would like in it, although it must have the following collumns labeled as they are in the example
 [VLAN ID, Purpose, Description, Location/ Shelf, CGN Space] OPTIONAL: Domain
