@@ -115,7 +115,7 @@ def generate_dhcp_config():
     "  option broadcast-address {};\n"
     "  option subnet-mask {};\n"
     "  option domain-name {};\n"
-    f"  option domain-name-servers {dns_final};\n" 
+   f"  option domain-name-servers {dns_final};\n" 
     "}}\n"
 ).format(
     dhcp_config['pool_name'],
